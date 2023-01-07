@@ -1,6 +1,6 @@
 # ProjectB
 All project under this solution listed here uses .NET 6 (Core).
-This solution try to implement SOLID and DRY design practices
+This solution aim to implement SOLID and DRY design practices
 
 Other 3rd party package (NPM) used are:
 - Autofac (Dependency Injection)
